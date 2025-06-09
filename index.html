@@ -34,7 +34,7 @@
             <p><strong>正解：</strong> ${q.正解}</p>
           `;
 
-          // 若圖片欄位存在，顯示圖片
+          // 只有在圖片欄位不為空時才顯示圖片
           if (q["圖片檔名"] && q["圖片檔名"].trim() !== "") {
         html += `<img src="${imageBaseUrl}${q["圖片檔名"]}" alt="題目圖片" style="max-width: 400px; margin: 10px 0;" />`;
       }
