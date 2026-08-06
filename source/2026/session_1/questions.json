@@ -1,0 +1,4323 @@
+[
+  {
+    "question_id": "MT-2026-1-IMMUNO-001",
+    "version": 1,
+    "question_number": 1,
+    "source_page": 1,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關T 細胞之敘述，下列何者正確？",
+    "options": {
+      "A": "T 細胞在胸腺中成熟，然後循環至骨髓進行活化",
+      "B": "發育中的T 細胞會根據自體反應性進行篩選，此過程稱為正向選擇",
+      "C": "只有少數T 細胞在胸腺中經過篩選後存活並達到成熟",
+      "D": "CD4 和CD8 T 細胞在正向選擇過程中被篩選出來，因為它們能夠識別外來抗原"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-002",
+    "version": 1,
+    "question_number": 2,
+    "source_page": 1,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "T 細胞及B 細胞發育過程的比較，下列何者錯誤？",
+    "options": {
+      "A": "T 細胞在胸腺（thymus）發育，而B 細胞則在骨髓（BM）",
+      "B": "T 細胞及B 細胞的存活皆需要完整的細胞受體複合物（TCR 及BCR complex）的訊息傳遞",
+      "C": "大部分的T 細胞及B 細胞會凋亡無法成熟進入周邊",
+      "D": "T 細胞及B 細胞的負選擇（negative selection）都需要辨識MHC 所呈獻的胜肽"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-003",
+    "version": 1,
+    "question_number": 3,
+    "source_page": 1,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種分子無法結合IL-2 啟動子（promoter）刺激IL-2 基因的表現?",
+    "options": {
+      "A": "NFAT",
+      "B": "FoxP3",
+      "C": "AP-1",
+      "D": "NF-κB"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-004",
+    "version": 1,
+    "question_number": 4,
+    "source_page": 1,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "未成熟的T 細胞稱為胸腺細胞（thymocyte），下列有關早期胸腺細胞發育過程的敘述何者錯誤？",
+    "options": {
+      "A": "Notch 訊息傳遞是決定造血幹細胞走向T 細胞系列的關鍵訊息",
+      "B": "double negative（DN）的胸腺細胞大部分是αβ T 細胞，只有少部分γδ T 細胞",
+      "C": "double negative（DN）的胸腺細胞表型皆為CD3 +CD4\n-CD8\n-",
+      "D": "DN1～DN4 胸腺細胞可由c-kit、CD25 及CD44 分子來辨別"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-005",
+    "version": 1,
+    "question_number": 5,
+    "source_page": 1,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "先天與適應性免疫之不同點為何？",
+    "options": {
+      "A": "先天免疫有記憶性",
+      "B": "適應性免疫無抗原特異性",
+      "C": "適應性免疫無抗原耐受性",
+      "D": "先天免疫較能迅速產生免疫反應"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-006",
+    "version": 1,
+    "question_number": 6,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關第二型MHC 分子（MHC class Ⅱ）的抗原呈獻，下列敘述何者錯誤？",
+    "options": {
+      "A": "被內吞的抗原通常被表面MHC class Ⅱ呈獻",
+      "B": "MHC class Ⅱ組裝需要ERp57、tapasin、calreticulin 等分子協助",
+      "C": "MHC class Ⅱ從內質網到late endosome 運送過程需要invariant chain 協助",
+      "D": "HLA-DM 可以幫助短胜肽被呈獻出來"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-007",
+    "version": 1,
+    "question_number": 7,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關B 細胞受體生成的敘述，下列何者錯誤？",
+    "options": {
+      "A": "經類別轉換的一個B 細胞只有一種重鏈跟一種輕鏈",
+      "B": "輕鏈基因重組一般發生在重鏈基因重組之前",
+      "C": "輕鏈基因的重組一般由κ輕鏈先發生",
+      "D": "RAG1/2 參與在免疫球蛋白的基因重組"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-008",
+    "version": 1,
+    "question_number": 8,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "血液循環中的淋巴球會利用何種細胞表面分子，與高內皮微小靜脈（high endothelial venules）特化內皮細胞上的ICAM-1 結合後，再進入淋巴結？",
+    "options": {
+      "A": "LFA-1",
+      "B": "CCR7",
+      "C": "L-selectin",
+      "D": "CD44"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-009",
+    "version": 1,
+    "question_number": 9,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "B 細胞表面不會表現下列那種分子？",
+    "options": {
+      "A": "HLA-A",
+      "B": "HLA-DR",
+      "C": "CD19",
+      "D": "CD2"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-010",
+    "version": 1,
+    "question_number": 10,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關貼膚試驗（patch test）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "診斷接觸性皮膚炎",
+      "B": "延遲型過敏反應",
+      "C": "過敏原濃度太高有偽陽性",
+      "D": "24 小時判讀結果"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-011",
+    "version": 1,
+    "question_number": 11,
+    "source_page": 2,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "皮膚上皮細胞分泌TSLP、IL-25 和IL-33 等細胞激素主要是誘發下列何種抗體的生成？",
+    "options": {
+      "A": "IgG",
+      "B": "IgM",
+      "C": "IgE",
+      "D": "IgA"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-012",
+    "version": 1,
+    "question_number": 12,
+    "source_page": 3,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者不是自體免疫引起的皮膚相關病變？",
+    "options": {
+      "A": "盤狀狼瘡（discoid lupus）",
+      "B": "類天皰瘡水疱症（bullous pemphigoid）",
+      "C": "疱疹性皮膚炎（dermatitis herpetiformis）",
+      "D": "帶狀疱疹（herpes zoster）"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-013",
+    "version": 1,
+    "question_number": 13,
+    "source_page": 3,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者與組織相容性最不相關？",
+    "options": {
+      "A": "主要組織相容性複合體（major histocompatibility antigen, MHC）",
+      "B": "組織高分子量激肽原（high-molecular-weight kininogen, HMW-K）",
+      "C": "人類白血球抗原（human leukocyte antigen, HLA）",
+      "D": "第一型組織相容相關鏈蛋白A（MHC class I chain-related protein A, MICA）"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-014",
+    "version": 1,
+    "question_number": 14,
+    "source_page": 3,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "Rituximab 用於治療non-Hodgkin's B-cell lymphoma，此單株抗體主要是與B 細胞的何種分子結合後誘導細胞凋亡？",
+    "options": {
+      "A": "CD81",
+      "B": "CD20",
+      "C": "CD35",
+      "D": "CD45"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-015",
+    "version": 1,
+    "question_number": 15,
+    "source_page": 3,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "蛋白激酶（protein kinase）藉由磷酸化蛋白質特定位點來活化淋巴球。下列何者不是可被蛋白激酶磷酸化的常見位點？",
+    "options": {
+      "A": "serine",
+      "B": "threonine",
+      "C": "arginine",
+      "D": "tyrosine"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-016",
+    "version": 1,
+    "question_number": 16,
+    "source_page": 3,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關干擾素（interferons）之敘述，下列何者錯誤？",
+    "options": {
+      "A": "現今已經發現type Ⅰ、type Ⅱ及type Ⅲ等三類干擾素",
+      "B": "type Ⅰ干擾素能夠透過RIG-I 及MDA-5 並與下游MAVS 轉接蛋白之作用而產生",
+      "C": "type Ⅱ干擾素能夠透過cGAS 辨識病毒核酸成分並活化下游STING 而產生",
+      "D": "type Ⅰ干擾素能夠誘導PKR kinase 之產生導致eIF2α磷酸化，達到抑制病毒複製之功效"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-017",
+    "version": 1,
+    "question_number": 17,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "在腸道的lamina propria 中，CD4：CD8 T 細胞的比例約為何？",
+    "options": {
+      "A": "1：1",
+      "B": "2：1",
+      "C": "3：1",
+      "D": "1：4"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-018",
+    "version": 1,
+    "question_number": 18,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "主要組織相容性複合體（MHC）與KIRs（killer cell immunoglobulin-like receptor）結合後，下列何者不會抑制NK 細胞的毒殺作用？",
+    "options": {
+      "A": "HLA-A",
+      "B": "HLA-B",
+      "C": "HLA-C",
+      "D": "HLA-DR"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-019",
+    "version": 1,
+    "question_number": 19,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種受體必須經由主要組織相容性複合體（MHC）呈獻的抗原才能結合與辨識？",
+    "options": {
+      "A": "B cell receptor",
+      "B": "T cell receptor",
+      "C": "toll-like receptor",
+      "D": "C-type lectin receptor"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-020",
+    "version": 1,
+    "question_number": 20,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "要準備1：10 的血清樣本稀釋液0.1 mL，則血清與稀釋液的比例，下列何者正確？",
+    "options": {
+      "A": "血清0.1 mL 與稀釋液1 mL",
+      "B": "血清0.01 mL 與稀釋液0.1 mL",
+      "C": "血清0.01 mL 與稀釋液0.09 mL",
+      "D": "血清0.1 mL 與稀釋液0.9 mL"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-021",
+    "version": 1,
+    "question_number": 21,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種染劑不應用於分析細胞內核酸？",
+    "options": {
+      "A": "PI（propidium iodide）",
+      "B": "DAPI",
+      "C": "Hoechst 33342",
+      "D": "Sudan Ⅲ"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-022",
+    "version": 1,
+    "question_number": 22,
+    "source_page": 4,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種放射性同位素最常使用於細胞毒殺試驗（cytotoxicity test）？",
+    "options": {
+      "A": "3H",
+      "B": "51Cr",
+      "C": "32P",
+      "D": "125I"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-023",
+    "version": 1,
+    "question_number": 23,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關幽門螺旋桿菌（H. pylori）感染的抗體反應，下列何者錯誤？",
+    "options": {
+      "A": "會產生IgG、IgA 和IgM 三種抗體",
+      "B": "IgM 具有極重要的臨床診斷價值",
+      "C": "IgG 是主要常用的檢測指標",
+      "D": "IgA 可與IgG 合併使用以提高敏感性"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-024",
+    "version": 1,
+    "question_number": 24,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "抗寄生蟲免疫反應中，IgE 主要參與的作用為何？",
+    "options": {
+      "A": "促進補體裂解寄生蟲",
+      "B": "中和寄生蟲的毒素",
+      "C": "結合肥大細胞釋放趨化因子",
+      "D": "增強吞噬細胞的吞噬能力"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-025",
+    "version": 1,
+    "question_number": 25,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關化膿性鏈球菌（S. pyogenes）血清學檢測的敘述，下列何者錯誤？",
+    "options": {
+      "A": "DNase B 是化膿性鏈球菌產生的細胞內酵素",
+      "B": "抗DNase B 抗體常見於膿皰症（impetigo）患者血清中",
+      "C": "DNase B 的中和試驗可評估化膿性鏈球菌的病程",
+      "D": "相較於ASO 的試驗結果，抗DNase B 抗體較不易產生偽陽性"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-026",
+    "version": 1,
+    "question_number": 26,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "TORCHS 診斷不包括何種病原體所引起的疾病？",
+    "options": {
+      "A": "細菌",
+      "B": "病毒",
+      "C": "真菌",
+      "D": "寄生蟲"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-027",
+    "version": 1,
+    "question_number": 27,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者與第三型過敏（type Ⅲ hypersensitivity）反應最不相關？",
+    "options": {
+      "A": "對penicillin 過敏",
+      "B": "group A Streptococcus 感染",
+      "C": "glomerulonephritis",
+      "D": "graft-versus-host disease（GVHD）"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-028",
+    "version": 1,
+    "question_number": 28,
+    "source_page": 5,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者與Arthus reaction 相關？",
+    "options": {
+      "A": "組織被毒殺型T 細胞破壞",
+      "B": "免疫複合物在血管壁沉積",
+      "C": "肥大細胞釋放組織胺",
+      "D": "移除被抗體致敏的紅血球"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-029",
+    "version": 1,
+    "question_number": 29,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "要協助診斷結核桿菌（M. tuberculosis）感染，經常檢測患者T 細胞對TB 抗原所釋出的何種細胞激素？",
+    "options": {
+      "A": "interleukin-17",
+      "B": "interferon-γ",
+      "C": "interleukin-4",
+      "D": "transforming growth factor-β"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-030",
+    "version": 1,
+    "question_number": 30,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關inflammatory bowel disease（IBD）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "Crohn disease 是一種IBD",
+      "B": "anti-pANCA 及anti-parietal antibodies 是IBD 的自體抗體",
+      "C": "ILC3 為淋巴球亞群與IBD 的形成相關",
+      "D": "屬腸胃道的自體發炎性疾病"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-031",
+    "version": 1,
+    "question_number": 31,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "抗核抗體（ANA）之陽性率在下列那一種自體免疫疾病較高？",
+    "options": {
+      "A": "Addison's disease",
+      "B": "pernicious anemia",
+      "C": "primary biliary cholangitis",
+      "D": "progressive systemic sclerosis"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-032",
+    "version": 1,
+    "question_number": 32,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "全身紅斑性狼瘡（SLE）病人體內免疫複合體沉積，引起發炎反應。下列何種因子參與此發炎反應？①IL-3\n②IL-33 ③kinin ④prostaglandin",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-033",
+    "version": 1,
+    "question_number": 33,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列那種疾病腦脊髓液會出現寡株（oligoclonal）γ球蛋白？①多發性硬化症（multiple sclerosis） ②神經性梅毒皮膚感覺異常（neurosyphilis-paresthesia） ③慢性結核菌及黴菌性腦膜炎（chronic mycobacterial and fungal meningitis） ④大腦梗塞（cerebral infarction） ⑤重症肌無力（myasthenia gravis）",
+    "options": {
+      "A": "①②⑤",
+      "B": "僅③④",
+      "C": "①②③④",
+      "D": "②③④⑤"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-034",
+    "version": 1,
+    "question_number": 34,
+    "source_page": 6,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "以放射照射（irradiated）受贈者的淋巴細胞，刺激捐贈者淋巴細胞增生，是下列何種檢測方法？",
+    "options": {
+      "A": "混合淋巴細胞反應（mixed lymphocyte reaction, MLR）",
+      "B": "補體媒介毒殺反應（complement-dependent cytotoxicity, CDC）",
+      "C": "抗體依賴性細胞介導毒殺反應（antibody-dependent cell-mediated cytotoxicity, ADCC）",
+      "D": "酵素連結免疫反應（enzyme-linked immunosorbent assay, ELISA）"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-035",
+    "version": 1,
+    "question_number": 35,
+    "source_page": 7,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種分子最可能預存在受贈者體內，造成超急性移植排斥反應？",
+    "options": {
+      "A": "補體",
+      "B": "發炎體",
+      "C": "抗體",
+      "D": "組織抗原單體"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-036",
+    "version": 1,
+    "question_number": 36,
+    "source_page": 7,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者屬於核磷酸化蛋白質（nuclear phosphoprotein），具有誘導細胞停止生長、DNA 修復和細胞凋亡的功能？",
+    "options": {
+      "A": "Myc",
+      "B": "K-ras",
+      "C": "Bcl-2",
+      "D": "p53"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-037",
+    "version": 1,
+    "question_number": 37,
+    "source_page": 7,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者是mRNA 疫苗的最佳優勢？",
+    "options": {
+      "A": "僅需單次接種即可提供終身免疫",
+      "B": "對變異病毒株無效，需不斷重新設計",
+      "C": "僅適用於年輕人，對老年人的效果有限",
+      "D": "可迅速修改設計以應對新型變異病原體"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-038",
+    "version": 1,
+    "question_number": 38,
+    "source_page": 7,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "免疫監視下抵抗清除階段（elimination phase）的變異腫瘤細胞，會招募下列何種細胞保護自己進入逃脫階段（escape phase）？",
+    "options": {
+      "A": "NK cells",
+      "B": "CD8 T cells",
+      "C": "Treg cells",
+      "D": "CD4 T cells"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-039",
+    "version": 1,
+    "question_number": 39,
+    "source_page": 7,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關疫苗佐劑（adjuvants）的敘述，下列何者正確？",
+    "options": {
+      "A": "佐劑的唯一功能是提供抗原的長期穩定性，無法直接增強免疫反應",
+      "B": "佐劑經由促進抗原呈獻細胞（APCs）的抗原攝取和活化，增強免疫反應",
+      "C": "所有佐劑均為礦物鹽類，例如氫氧化鋁或磷酸鋁，這些成分是佐劑應用的唯一來源",
+      "D": "佐劑僅能提高抗體的濃度，對細胞免疫反應無法產生作用"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-040",
+    "version": 1,
+    "question_number": 40,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種細胞最不具有抑制腫瘤生長的功能？",
+    "options": {
+      "A": "NK cells",
+      "B": "cytotoxic T cells",
+      "C": "M2 macrophages",
+      "D": "eosinophils"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-041",
+    "version": 1,
+    "question_number": 41,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "血球凝集試驗不適合用於檢測下列何種病毒？",
+    "options": {
+      "A": "腺病毒",
+      "B": "流感病毒",
+      "C": "麻疹病毒",
+      "D": "EB 病毒"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-042",
+    "version": 1,
+    "question_number": 42,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "如果沒有急性期與恢復期的成對血清來比較IgG 效價高低時，可用IgG avidity 來判斷患者是否為近期感染。下列敘述何者錯誤？",
+    "options": {
+      "A": "可使用avidity EIA 來測",
+      "B": "近期感染的IgG，avidity 高",
+      "C": "urea 可破壞抗體氫鍵",
+      "D": "urea 可移除avidity 低的抗體"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-043",
+    "version": 1,
+    "question_number": 43,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "利用PCR 定量巨細胞病毒viral load 之檢驗中，不需要使用到下列何種材料？",
+    "options": {
+      "A": "reverse transcriptase",
+      "B": "NA polymerase",
+      "C": "dNTP",
+      "D": "HSV-1 specific primers"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A",
+        "D"
+      ],
+      "corrected": true,
+      "scoring_rule": "multiple_accepted",
+      "correction_note": "考選部一律給分"
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T19:08:41",
+    "reviewed_at": "2026-08-06T19:08:49"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-044",
+    "version": 1,
+    "question_number": 44,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "某些病毒在感染後能潛伏在健康成人體內，但對於免疫不全的病人來說這些病毒可造成伺機感染。有關此現象，下列敘述何者錯誤？",
+    "options": {
+      "A": "巨細胞病毒在免疫不全的病人中可能造成致死性的神經系統感染",
+      "B": "麻疹病毒在免疫不全的病人可造成巨細胞肺炎（giant cell syncytial pneumonia）",
+      "C": "BK 病毒在免疫不全的病人中可造成視網膜炎（retinitis）",
+      "D": "JC 病毒在免疫不全的病人中可造成進行性多病灶腦白質病（progressive multifocal leukoencephalopathy）"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-045",
+    "version": 1,
+    "question_number": 45,
+    "source_page": 8,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關減毒（live attenuated）流感疫苗的敘述，下列何者錯誤？",
+    "options": {
+      "A": "鼻腔內給與噴霧",
+      "B": "適合老年族群",
+      "C": "同時誘發T、B 細胞及黏膜免疫反應",
+      "D": "病毒在37℃生長情況不佳"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-046",
+    "version": 1,
+    "question_number": 46,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關流感病毒A/B 的抗原快速診斷檢驗，下列何者最不適當？",
+    "options": {
+      "A": "抗原快速檢驗結果可提供臨床上是否給與抗流感病毒藥物參考",
+      "B": "常用檢體是鼻咽拭子（nasopharyngeal swab）",
+      "C": "通常以病毒的HA 蛋白作為抗原",
+      "D": "可以肉眼判讀結果"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-047",
+    "version": 1,
+    "question_number": 47,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關shell vial 技術之敘述，下列何者最不適當？",
+    "options": {
+      "A": "接種檢體後，需經過低速離心處理",
+      "B": "需先觀察細胞病變，再用免疫螢光染色確認",
+      "C": "可縮短病毒檢測時間",
+      "D": "可用來培養及鑑定巨細胞病毒"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-048",
+    "version": 1,
+    "question_number": 48,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關病毒及其可感染細胞株之配對，下列何者最不適當？",
+    "options": {
+      "A": "腸病毒A71 型／RD 細胞",
+      "B": "A 型流感病毒／MDCK 細胞",
+      "C": "腺病毒／HEp-2 細胞",
+      "D": "人類巨細胞病毒／A549 細胞"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-049",
+    "version": 1,
+    "question_number": 49,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關HIV-1 及HBV 之特性及臨床表現敘述，下列何者最為適當？",
+    "options": {
+      "A": "二者皆可透過反轉錄機制複製病毒基因體",
+      "B": "二者慢性感染之臨床症狀表現及用藥具有高度相似性",
+      "C": "二者皆使用RT-PCR 進行病毒定量檢驗",
+      "D": "二者致死最重要原因皆為猛爆性感染"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-050",
+    "version": 1,
+    "question_number": 50,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關細胞培養之敘述，下列何者錯誤？",
+    "options": {
+      "A": "需要定期檢測是否有黴漿菌污染",
+      "B": "需要定期測試對病毒的感受性",
+      "C": "解凍細胞時放在冰上讓其慢慢溶解",
+      "D": "冷凍細胞時需要外加抗凍劑"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-051",
+    "version": 1,
+    "question_number": 51,
+    "source_page": 9,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關細胞與病毒培養之敘述，下列何者錯誤？",
+    "options": {
+      "A": "初代細胞不適合作為臨床常規病毒感染的細胞",
+      "B": "初代細胞培養次數有限",
+      "C": "MRC-5 細胞是屬於二倍體細胞（diploid cells）",
+      "D": "同一種病毒對不同細胞的感染能力相近"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-052",
+    "version": 1,
+    "question_number": 52,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "目前用於治療HCV 的抗病毒藥物direct acting antivirals（DAAs），不包含下列何種病毒標的？",
+    "options": {
+      "A": "NS3 protease",
+      "B": "NS5A protein",
+      "C": "NS1 protein",
+      "D": "NS5B polymerase"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-053",
+    "version": 1,
+    "question_number": 53,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "成人T 細胞白血病（adult T-cell leukemia）是由下列何種病毒感染所造成？",
+    "options": {
+      "A": "human immunodeficiency virus type 1",
+      "B": "human immunodeficiency virus type 2",
+      "C": "human T-cell lymphotropic virus type 1",
+      "D": "human T-cell lymphotropic virus type 2"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-054",
+    "version": 1,
+    "question_number": 54,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關水痘帶狀疱疹病毒（varicella-zoster virus）之敘述，下列何者最不適當？",
+    "options": {
+      "A": "感染後再次復發時會引起水痘（chickenpox）",
+      "B": "可施打減毒活疫苗預防感染",
+      "C": "成人初次感染比兒童更嚴重",
+      "D": "病毒會潛伏於神經元中"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-055",
+    "version": 1,
+    "question_number": 55,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關hemagglutination inhibition（HAI）的敘述，下列何者最適當？",
+    "options": {
+      "A": "可用來定量檢體中hemagglutinin 的量",
+      "B": "只能用天竺鼠的紅血球",
+      "C": "血清檢體不需要經過前處理即可進行檢測",
+      "D": "紅血球沉降聚集於U 型盤底中央表示陽性"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-056",
+    "version": 1,
+    "question_number": 56,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "抗病毒藥物lamivudine（3TC）可用於治療下列那些病毒組合？",
+    "options": {
+      "A": "HIV-1/HBV",
+      "B": "HBV/HCV",
+      "C": "HIV-1/HCV",
+      "D": "HBV/HEV"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-057",
+    "version": 1,
+    "question_number": 57,
+    "source_page": 10,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種病毒在臨床實驗室進行常規性病毒培養時，最不可能產生細胞病變？",
+    "options": {
+      "A": "parvovirus B19",
+      "B": "Coxsackievirus B3",
+      "C": "herpes simplex virus type 1",
+      "D": "adenovirus"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-058",
+    "version": 1,
+    "question_number": 58,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種病毒感染最有可能造成關節炎的症狀？",
+    "options": {
+      "A": "cytomegalovirus",
+      "B": "parvovirus B19",
+      "C": "adenovirus type 5",
+      "D": "herpes simplex virus type 2"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-059",
+    "version": 1,
+    "question_number": 59,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列有關HPV 病毒蛋白的敘述，何者正確？",
+    "options": {
+      "A": "E6 在癌化組織表現量較高",
+      "B": "E1 在病理組織分化異常的部位有高表現量",
+      "C": "可利用帶有E7 的假病毒進行中和抗體實驗，測試施打疫苗的效價",
+      "D": "anti-L1 的抗體檢測可作為子宮頸癌篩檢方法"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-060",
+    "version": 1,
+    "question_number": 60,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種DNA 病毒，在懷孕期間感染最常造成嬰兒先天性缺陷？",
+    "options": {
+      "A": "B 型肝炎病毒",
+      "B": "巨細胞病毒",
+      "C": "腺病毒",
+      "D": "BK 病毒"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-061",
+    "version": 1,
+    "question_number": 61,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種病毒最可能由尿液中培養分離？",
+    "options": {
+      "A": "human herpesvirus 7",
+      "B": "cytomegalovirus",
+      "C": "parvovirus B19",
+      "D": "human papillomavirus 16"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-062",
+    "version": 1,
+    "question_number": 62,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列那一組實驗室診斷結果，最有可能代表慢性肝炎感染？",
+    "options": {
+      "A": "HBsAg(＋)，anti-HBcAb(＋)，anti-HBsAb(－)",
+      "B": "HBsAg(－)，anti-HBcAb(＋)，anti-HBsAb(＋)",
+      "C": "HBsAg(－)，anti-HBcAb(－)，anti-HBsAb(＋)",
+      "D": "HBsAg(＋)，anti-HBcAb(－)，anti-HBsAb(－)"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-063",
+    "version": 1,
+    "question_number": 63,
+    "source_page": 11,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者屬於人畜共通傳染的肝炎病毒？",
+    "options": {
+      "A": "HAV",
+      "B": "HBV",
+      "C": "HCV",
+      "D": "HEV"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-064",
+    "version": 1,
+    "question_number": 64,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種疾病或症狀最有可能因腺病毒（adenovirus）感染而造成 ？",
+    "options": {
+      "A": "玫瑰疹",
+      "B": "貧血",
+      "C": "呼吸道症狀",
+      "D": "胸痛（pleurodynia）"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-065",
+    "version": 1,
+    "question_number": 65,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "懷孕婦女感染下列何種病毒後，最可能造成胎兒貧血甚至死亡？",
+    "options": {
+      "A": "measles virus",
+      "B": "parvovirus B19",
+      "C": "respiratory syncytial virus",
+      "D": "rubella virus"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-066",
+    "version": 1,
+    "question_number": 66,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種病毒，目前臨床上沒有小分子藥物可供專一性治療？",
+    "options": {
+      "A": "parvovirus B19",
+      "B": "hepatitis C virus",
+      "C": "varicella-zoster virus",
+      "D": "hepatitis B virus"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-067",
+    "version": 1,
+    "question_number": 67,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種疫苗最可能保護個體免於D 型肝炎病毒感染？",
+    "options": {
+      "A": "A 型肝炎病毒疫苗",
+      "B": "B 型肝炎病毒疫苗",
+      "C": "C 型肝炎病毒疫苗",
+      "D": "E 型肝炎病毒疫苗"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-068",
+    "version": 1,
+    "question_number": 68,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關感染人類的冠狀病毒與其細胞受體的配對，下列何者最不適當？",
+    "options": {
+      "A": "SARS-CoV／angiotensin-converting enzyme 2（ACE2）",
+      "B": "HCoV-229E／human aminopeptidase N（hAPN）",
+      "C": "MERS-CoV／dipeptidyl peptidase 4（DPP4）",
+      "D": "HCoV-NL63／alpha 2,6-linked sialic acid"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-069",
+    "version": 1,
+    "question_number": 69,
+    "source_page": 12,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關B 型流感病毒的特性，下列敘述何者最不適當？",
+    "options": {
+      "A": "病毒顆粒表面有hemagglutinin 蛋白質",
+      "B": "完整病毒顆粒中帶有7 個片段病毒基因組",
+      "C": "病毒的RNA 聚合酶複合體由PB1、PB2 及PA 三個蛋白質組成",
+      "D": "病毒的BM2 蛋白質具有離子通道的活性"
+    },
+    "answer": {
+      "original": [
+        "B"
+      ],
+      "accepted": [
+        "B"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-070",
+    "version": 1,
+    "question_number": 70,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關副黏液病毒的敘述，下列何者錯誤？",
+    "options": {
+      "A": "會引起細胞融合",
+      "B": "負向RNA 病毒",
+      "C": "在細胞質中完成病毒的複製",
+      "D": "F 蛋白與N 蛋白會黏附在一起"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-071",
+    "version": 1,
+    "question_number": 71,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關A 型肝炎病毒的敘述，下列何者最不適當？",
+    "options": {
+      "A": "屬於微小RNA 病毒科（Picornaviridae）之一員",
+      "B": "病毒外殼（capsid）由病毒蛋白質VP1、VP2、VP3 及VP4 組成",
+      "C": "具胃酸耐受性，可感染小腸上皮細胞",
+      "D": "僅有一種血清型（serotype）及一種基因型（genotype）"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-072",
+    "version": 1,
+    "question_number": 72,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關德國麻疹病毒的敘述，下列何者最適當？",
+    "options": {
+      "A": "與麻疹病毒（measles virus）同屬於副黏液病毒科（Paramyxoviridae）",
+      "B": "病毒基因組為負向單股RNA",
+      "C": "病毒外套膜（envelope）上有E1 及E2 醣蛋白（glycoproteins）",
+      "D": "目前並無疫苗可供預防"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-073",
+    "version": 1,
+    "question_number": 73,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者為冠狀病毒的特性？",
+    "options": {
+      "A": "具有最長RNA 基因體的人類病毒",
+      "B": "由RNA 基因體製造單一多胜肽鏈（polypeptide）",
+      "C": "是套膜病毒中病毒顆粒最大的",
+      "D": "是造成普通感冒的最主要病毒"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-074",
+    "version": 1,
+    "question_number": 74,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關登革病毒（dengue virus）的敘述，下列何者最適當？",
+    "options": {
+      "A": "目前僅有一種血清型，因此感染後能獲終身保護力",
+      "B": "DENVax 登革熱疫苗是一種次單位蛋白疫苗（subunit vaccine）",
+      "C": "第二次得到相同型別登革病毒感染容易引發出血熱",
+      "D": "患者感染登革病毒後會出現病毒血症（viremia）的現象"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-075",
+    "version": 1,
+    "question_number": 75,
+    "source_page": 13,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關茲卡病毒（Zika virus）的敘述，下列何者最適當？",
+    "options": {
+      "A": "多數人初次感染後沒有明顯症狀",
+      "B": "基因型可分為非洲型與美洲型",
+      "C": "可使用專一性抗病毒藥物預防胎兒小頭症發生",
+      "D": "主要經由性行為傳染"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-076",
+    "version": 1,
+    "question_number": 76,
+    "source_page": 14,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何種病毒沒有製造紅血球凝集的蛋白？",
+    "options": {
+      "A": "parainfluenza virus",
+      "B": "mumps virus",
+      "C": "measles virus",
+      "D": "respiratory syncytial virus"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-077",
+    "version": 1,
+    "question_number": 77,
+    "source_page": 14,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "針對A 型流感病毒的hemagglutinin（HA）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "可引發中和性抗體產生",
+      "B": "表現在病毒外套膜上",
+      "C": "以dimer 的型態存在",
+      "D": "其功能包括促進病毒膜與細胞融合"
+    },
+    "answer": {
+      "original": [
+        "C"
+      ],
+      "accepted": [
+        "C"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-078",
+    "version": 1,
+    "question_number": 78,
+    "source_page": 14,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關rotavirus 的敘述，下列何者最不適當？",
+    "options": {
+      "A": "為雙層核體、雙股片段RNA 病毒",
+      "B": "在細胞質內進行基因體複製",
+      "C": "已有疫苗可預防感染",
+      "D": "rotavirus type A 可依據VP4 及VP8 抗原進行分型"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-079",
+    "version": 1,
+    "question_number": 79,
+    "source_page": 14,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "有關節媒病毒（arbovirus）的敘述，下列何者錯誤？",
+    "options": {
+      "A": "均有疫苗可防治",
+      "B": "受限於病媒，分布均有特定的生態棲位",
+      "C": "類感冒症狀為病毒刺激宿主產生干擾素的結果",
+      "D": "常以控制病媒來作為流行病的控制方法"
+    },
+    "answer": {
+      "original": [
+        "A"
+      ],
+      "accepted": [
+        "A"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  },
+  {
+    "question_id": "MT-2026-1-IMMUNO-080",
+    "version": 1,
+    "question_number": 80,
+    "source_page": 14,
+    "subject": {
+      "code": "IMMUNO",
+      "name": "臨床血清免疫學"
+    },
+    "question": "下列何者不是A 型肝炎病毒的特性？",
+    "options": {
+      "A": "具有正向單股RNA 基因體",
+      "B": "病毒顆粒不具外套膜",
+      "C": "在高於攝氏85℃環境10 分鐘，會失去感染活性",
+      "D": "在pH＜3.0 的酸性室溫環境中極不穩定，會立刻失去感染活性"
+    },
+    "answer": {
+      "original": [
+        "D"
+      ],
+      "accepted": [
+        "D"
+      ],
+      "corrected": false,
+      "scoring_rule": "single",
+      "correction_note": null
+    },
+    "stimulus_id": null,
+    "media": [],
+    "classification": {
+      "chapter": null,
+      "topic": null,
+      "subtopic": null,
+      "difficulty": null,
+      "question_type": null,
+      "cognitive_level": null,
+      "knowledge_points": [],
+      "tags": [],
+      "ai_classified": false,
+      "classification_version": null,
+      "confidence": null
+    },
+    "parse_issues": [],
+    "validation": {
+      "structure_valid": true,
+      "answer_valid": true,
+      "media_valid": true,
+      "needs_review": false,
+      "review_status": "approved"
+    },
+    "status": "draft",
+    "last_modified_at": "2026-08-06T18:21:12",
+    "reviewed_at": "2026-08-06T19:11:53"
+  }
+]
